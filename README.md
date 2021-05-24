@@ -1,3 +1,3 @@
 # Projeto Curso Algoritmo
 
-### Este projeto é sobre o curso Algoritmo e Lógica
+### Repositório criado para o curso de Algoritmo e Lógica de Programação.
